@@ -1,5 +1,6 @@
 # Introduction
-Extract structured information from an unstructured text. (ACE)[https://cs.nyu.edu/grishman/jet/guide/ACEstructures.html][Automatic Content Extraction] supports evaluation of entity, relation and event extraction.
+Extract structured information from an unstructured text. (ACE)[https://cs.nyu.edu/grishman/jet/guide/ACEstructures.html][Automatic Content Extraction]
+ supports evaluation of entity, relation and event extraction.
 
 # Event extraction
 - http://www.caojiarun.com/2019/11/Introduction-of-Event-Extraction/
